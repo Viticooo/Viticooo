@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Python Frameworks (Flask, Django)
-- - 👯 I’m looking to collaborate on open source projects to upgrade my habilities and be a great developer :p
+- 👯 I’m looking to collaborate on open source projects to upgrade my habilities and be a great developer :p
 <!--
 **Viticooo/Viticooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
