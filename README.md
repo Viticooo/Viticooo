@@ -1,17 +1,33 @@
-## Hi there 👋
-- 🌱 I’m currently learning Python Frameworks (Flask, Django)
-- 👯 I’m looking to collaborate on open source projects to upgrade my habilities and be a great developer :p
-<!--
-**Viticooo/Viticooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy [Tu Nombre] 👋
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mí
+Soy un estudiante apasionado por la programación y la tecnología. Actualmente estoy aprendiendo sobre Django y JavaScript a un nivel un poco más avanzado, me gusta además del área de tecnologia, el arte en casi todos sus tipos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en: **[Sistema de prestamos]**
+- 🌱 Estoy aprendiendo: **[Django]**
+- 👯 Busco colaborar en: **[Proyectos nuevos para aprender]**
+- ⚡ Dato curioso: **[Llevo solo 1 año aprendiendo por mi cuenta, me apoyo de la universidad y me gustan demasiado los videojuegos]**
+
+---
+
+### 🛠️ Lenguajes y Herramientas
+
+* **Lenguajes:** [Python, JavaScript, C]
+* **Frontend:** [HTML5, CSS3, Tailwindcss]
+* **Backend:** [Flask]
+* **Herramientas:** [Git, Linux, VS Code]
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Viticooo&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Viticooo&layout=compact&theme=radical)
+
+---
+
+### 📫 Contáctame
+
+- 💼 LinkedIn: [Tu LinkedIn](URL_DE_LINKEDIN)
+- 📧 Email: [tu_correo@ejemplo.com](mailto:tu_correo@ejemplo.com)
