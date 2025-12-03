@@ -23,7 +23,7 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=highcontrast)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Viticooo&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 ---
 
