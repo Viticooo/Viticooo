@@ -21,6 +21,13 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 
 ---
 
+### Proyectos
+
+* **RandoMon:** [🔗 https://viticooo.github.io/RandomizadorPokemon/]
+* **Reproductor** [🔗 https://viticooo.github.io/Frisound/]
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,4 +49,4 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 ### 📫 Contáctame
 
 - 💼 LinkedIn: [Mi LinkedIn](https://www.linkedin.com/in/victor-manuel-ramirez-bustamante-98789b329/)
-- 📧 Email: [ingvictorramirez123@gmail.com]
+- 📧 Email: ingvictorramirez123@gmail.com
