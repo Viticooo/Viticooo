@@ -7,7 +7,7 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 
 - 🔭 Actualmente estoy trabajando en: **Reproductor de musica**
 - 🌱 Estoy aprendiendo: **JavaScript y Electron**
-- 👯 Busco colaborar en: **Proyectos nuevos para aprender**
+- 👯 Busco colaborar en: **Proyectos divertidos en los que pueda aprender:>**
 - ⚡ Dato curioso: **Llevo solo 1 año aprendiendo por mi cuenta :,p**
 
 ---
