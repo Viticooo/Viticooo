@@ -26,7 +26,9 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 
 * **RandoMon (v1.3.2):** [🔗 https://viticooo.github.io/RandomizadorPokemon/]
 * **Reproductor** [🔗 https://viticooo.github.io/Frisound/]
-
+* **Nuevo Proyecto** [--------------------------------------------]
+* **Nuevo Proyecto** [--------------------------------------------]
+* **Nuevo Proyecto** [--------------------------------------------]
 ---
 
 ### 🛠️ Tech Stack
