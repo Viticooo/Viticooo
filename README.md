@@ -5,10 +5,6 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 
 ---
 
-<img align="right" height="140" src="https://i.pinimg.com/1200x/73/86/47/73864791bf5975af22c0c2791cce51a2.jpg"  />
-
----
-
 - 🔭 Actualmente estoy trabajando en: **Reproductor de musica**
 - 🌱 Estoy aprendiendo: **JavaScript y Electron**
 - 👯 Busco colaborar en: **Proyectos divertidos en los que pueda aprender:>**
@@ -47,4 +43,5 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<img align="right" height="140" src="https://i.pinimg.com/1200x/73/86/47/73864791bf5975af22c0c2791cce51a2.jpg"  />
 ---
