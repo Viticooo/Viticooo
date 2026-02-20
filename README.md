@@ -5,10 +5,10 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 
 ---
 
-- 🔭 Actualmente estoy trabajando en: **App de peticiones REST**
-- 🌱 Estoy aprendiendo: **TypeScript**
+- 🔭 Actualmente estoy trabajando en: **Automatizacion de formatos**
+- 🌱 Estoy aprendiendo: **Django - Pandas**
 - 👯 Busco colaborar en: **Proyectos divertidos en los que pueda aprender:>**
-- ⚡ Dato curioso: **Llevo solo 1 año aprendiendo por mi cuenta :,p**
+- ⚡ Dato curioso: **Llevo solo 1 año y medio aprendiendo por mi cuenta :,p**
 
 ---
 
