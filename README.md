@@ -1,4 +1,3 @@
-# Hola, soy Victor
 
 ### Sobre mí
 Soy un estudiante apasionado por la programación y la tecnología. Actualmente estoy aprendiendo sobre Django y JavaScript a un nivel un poco más avanzado, me gusta además del área de tecnologia, el arte en casi todos sus tipos.
@@ -14,9 +13,9 @@ Soy un estudiante apasionado por la programación y la tecnología. Actualmente 
 ### Proyectos
 
 * **RandoMon (v1.3.2):**  https://viticooo.github.io/RandomizadorPokemon/
-* **Gary** garycapture.pages.dev
-* **Portfolio**  https://viticooo.github.io/
-* **Reproductor** https://viticooo.github.io/Frisound/
+* **Gary:** https://garycapture.pages.dev/
+* **Portfolio:**  https://viticooo.github.io/
+* **Reproductor:** https://viticooo.github.io/Frisound/
 
 ---
 
