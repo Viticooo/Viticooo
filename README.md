@@ -1,35 +1,25 @@
 # Hola, soy Victor
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 Soy un estudiante apasionado por la programación y la tecnología. Actualmente estoy aprendiendo sobre Django y JavaScript a un nivel un poco más avanzado, me gusta además del área de tecnologia, el arte en casi todos sus tipos.
 
 ---
 
-- 🔭 Actualmente estoy trabajando en: **Automatizacion de formatos**
-- 🌱 Estoy aprendiendo: **Django - Pandas**
-- 👯 Busco colaborar en: **Proyectos divertidos en los que pueda aprender:>**
-- ⚡ Dato curioso: **Llevo solo 1 año y medio aprendiendo por mi cuenta :,p**
-
----
-
-### 🛠️ Lenguajes y Herramientas
-
-* **Lenguajes:** [Python, JavaScript, C]
-* **Frontend:** [HTML5, CSS3, Tailwindcss]
-* **Backend:** [Flask]
-* **Herramientas:** [Git, Linux, VS Code]
+- Actualmente estoy trabajando en: **Automatizacion de formatos**
+- Estoy aprendiendo: **Pandas**
+- Busco colaborar en: **Proyectos divertidos en los que pueda aprender:>**
 
 ---
 
 ### Proyectos
 
-* **RandoMon (v1.3.2):** [🔗 https://viticooo.github.io/RandomizadorPokemon/]
-* **Portfolio** [🔗 https://viticooo.github.io/]
-* **Reproductor** [🔗 https://viticooo.github.io/Frisound/]
+* **RandoMon (v1.3.2):**  https://viticooo.github.io/RandomizadorPokemon/
+* **Portfolio**  https://viticooo.github.io/
+* **Reproductor** https://viticooo.github.io/Frisound/
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
